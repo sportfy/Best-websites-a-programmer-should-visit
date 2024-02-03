@@ -297,8 +297,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Bitwise tricks](https://gist.github.com/dideler/2365607)
 - [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
 - [Code Project](https://www.codeproject.com) : For those who code!
-- [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
+- [Core Java Interview Questions](https://www.javatpoint.com/corejava-interview-questions)
 - [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
 - [Delightful Puzzles](http://gurmeet.net/puzzles/)
 - [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
